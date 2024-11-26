@@ -43,7 +43,7 @@ Check out the live demo [here](https://listomo.netlify.app/).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/listomo.git
+   git clone https://github.com/URAYUSHJAIN/listomo.git
    ```
 2. Open `index.html` in your browser to start using the to-do list.
 
